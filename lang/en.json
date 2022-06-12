@@ -1,3 +1,5 @@
 {
-    "showWalls.tools.toggle.hint": "Show Walls Everywhere"
+    "showwalls.tools.toggle.hint": "Show Walls Everywhere",
+    "showwalls.tools.showDoor.name": "Force Door Icon Visiblity?",
+    "showwalls.tools.showDoor.hint": "Default behavior hides Door Icons on the Walls layer. This makes them stay visible."
 }
